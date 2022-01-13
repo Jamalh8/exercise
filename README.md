@@ -1,7 +1,7 @@
 # Git Exercise
 
 The following practical exercises should give you some familiarity with using 
-Git. 
+Git. This is my copy 
 
 Note: The provided command line examples are to remind you of the correct syntax 
 and keywords, and won't necessarily work if you type them in blindly
